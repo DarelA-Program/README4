@@ -1,1 +1,24 @@
+Kofi Osel
+
+*The game is about to characters who are in a maze and they will have to face
+many (obsticles or levels) and the goal is to finish first.
+
+* For the charactars I was thinking about using famous charactars like: Mario ,Luigi or Kirby.
+https://www.google.ca/search?q=Mario+Super+Mario&sa=X&stick=H4sIAAAAAAAAAIVTO2zTUBS1Aw3pa0GNO4AyVCZCauhA_ImdmKWREENRq0ptB5gs_x0_f2L7NbEtJFAHZoQE7IiBoVM3GBjKRAYkGNhAgq0TjEUIlSbxc9nw4nPvu-ece6-fKzP1StNrMjBLOO6y24sRHZi0pXgGrdlKpGjIiOIROTuuYZEaQYzbKUQ5bnUSyIxIMMa8zjvaAAda2pfsvIpjPFcbkblbNsBCLuOrRTrhRuTcJM23MiFC-EDu9HPNNmzBMWFKDvWshbsQIkEshIYetrWg6uVcTrR1CQeqyWmhnlfxko0w5hxTkAq2Dy1sJjuhdDaAmuuYoZCZYTFxJkt-XtQWxw1N8pZn9mMfi0Y6Ot3ExabVZFlb8x3Hh0le6MtCO-ZwVwmXFl1FsYotudCRoIvntsNBGxMG9lDHyqYTyqrYt4qxPJfFnJY26OCWbehFGT5oSyL-xALr2IWJ2ElMbOJpKRYSeHM843Q_scXwhTnDiKbTwavo2xDfIk5isiGmRJBnctyxItcrtpJKyNMi5jv5rjS3cHT8dbH2uvRk__1n8qAEFtaDIDbcdMtwFWToOwHVAOXbPuqhlFoCl2rTsVTEWnaDqM2Df2LqEQnmtg20E2wEes9MqSG1C2Y3DE89veabJnUXgFuB6xoa6gU-dQdcq9FNrUg0zd7krbjy2c9xalEH_62qg63pxREG3M1So1SHnPzm07MP5XvVl19OTvhfa93a9RUKXFiL1wNNcav7zxvdo98_VlcWQWVHSQI_8NIqMXl-rtavzi7fPzo5-PhttVpdIh7uLV_vXjlHEw2C3Tz-8-Dw6Y3uCrH39tVh-XyFXCDmX8xUN5SoF9Dbu30joif4cZn8C4b4Mgn9AwAA&biw=1366&bih=657&sxsrf=ALeKk03jCpr8M4dZMSj6un9tfMNgPpV4zQ:1603428666940&tbm=isch&source=iu&ictx=1&fir=k_Mb9aBpOUAQLM%252CHrdKAbQQN6fWAM%252C_&vet=1&usg=AI4_-kSev_Zu-X6II9aPwR_CLODngKNv8Q&ved=2ahUKEwia-_Wg9cnsAhUKlnIEHRShDmkQ9QF6BAgEEFg#imgrc=k_Mb9aBpOUAQLM
+
+*Each charactar must run as fast as they can to reach to the finish line.
+ There will be various obstables to prevent them to reach to there goal.
+ For example: there will be objects, enemies and so on... 
+
+*The first charactar to reach to the finish line wins. If you get hit a certain amount of time by the obstacles
+ you automatically loss and the winner will be your adversaire.
+
+*As you reach closer to the finish line the difficulty will increase. There will be more objets and  obstacles on your way
+ to prevent you to reach your goal. The maze will be moving making it hard for you to run to the finish line.
+
+*My source of insparation was the game Mario. I love that game. 
+
+*I would like to be paired with someone who has an idea of game similar to mine.
+ Also someone who is sociable and that works well.
+  
 
