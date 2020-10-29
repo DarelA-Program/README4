@@ -1,4 +1,5 @@
 Kofi Osel
+=======
 
 *The game is about to characters who are in a maze and they will have to face
 many (obsticles or levels) and the goal is to finish first.
@@ -21,3 +22,5 @@ https://www.google.ca/search?q=Mario+Super+Mario&sa=X&stick=H4sIAAAAAAAAAIVTO2zT
 *I would like to be paired with someone who has an idea of game similar to mine.
  Also someone who is sociable and that works well.
   
+
+
